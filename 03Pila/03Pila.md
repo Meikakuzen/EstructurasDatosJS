@@ -9,7 +9,7 @@ class Stack {
     #items = [];
 
     push(item){
-        this.#items.push() //agrega un elemento al final
+        this.#items.push(item) //agrega un elemento al final
     }
 
     pop(){
